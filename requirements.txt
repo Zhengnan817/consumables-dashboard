@@ -1,9 +1,7 @@
-os
-pandas
 streamlit
+pandas
 plotly
+scikit-learn
+prophet
 requests
-sklearn
-IsolationForest
-sklearn.cluster 
-KMeans
+openpyxl
