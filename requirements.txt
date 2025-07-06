@@ -1,4 +1,9 @@
-streamlit
+os
 pandas
+streamlit
 plotly
-openpyxl
+requests
+sklearn
+IsolationForest
+sklearn.cluster 
+KMeans
